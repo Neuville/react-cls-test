@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <a href="#" onClick="UC_UI.showSecondLayer();">Privacy Settings</a>
       </header>
     </div>
   );

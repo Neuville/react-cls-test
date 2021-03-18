@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../ImpTest-Neuville"
+		},
+		{
+			"path": "../../SDP_cmpv1_test"
+		},
+		{
+			"path": "../../REPOSITORY_TEMPLATE"
+		},
+		{
+			"path": "../../uc_matomo_test"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../VUE"
+		},
+		{
+			"path": "../../Javascript_Core"
+		}
+	],
+	"settings": {}
+}
